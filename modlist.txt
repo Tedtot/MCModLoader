@@ -1,4 +1,3 @@
-current mod list
 https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 https://www.curseforge.com/minecraft/mc-mods/more-enchantments_
 https://www.curseforge.com/minecraft/mc-mods/wonderful-enchantments (Majrusz's Enchantments)
