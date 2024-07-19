@@ -1,0 +1,68 @@
+current mod list
+https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+https://www.curseforge.com/minecraft/mc-mods/more-enchantments_
+https://www.curseforge.com/minecraft/mc-mods/wonderful-enchantments (Majrusz's Enchantments)
+https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight
+https://www.curseforge.com/minecraft/mc-mods/aquaculture
+https://www.curseforge.com/minecraft/mc-mods/mystic-potions
+https://www.curseforge.com/minecraft/mc-mods/mo-than-enough-guns (M'TEG)
+https://www.curseforge.com/minecraft/mc-mods/farmers-delight
+https://www.curseforge.com/minecraft/mc-mods/cultural-delights
+https://www.curseforge.com/minecraft/mc-mods/embeddium
+https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture
+https://www.curseforge.com/minecraft/mc-mods/jei
+https://www.curseforge.com/minecraft/mc-mods/jade
+https://www.curseforge.com/minecraft/mc-mods/appleskin
+https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+https://www.curseforge.com/minecraft/mc-mods/ecologics
+https://www.curseforge.com/minecraft/mc-mods/mekanism
+https://www.curseforge.com/minecraft/mc-mods/storage-drawers
+https://www.curseforge.com/minecraft/mc-mods/refined-storage
+https://www.curseforge.com/minecraft/mc-mods/botania
+https://www.curseforge.com/minecraft/mc-mods/twigs
+https://www.curseforge.com/minecraft/mc-mods/waystones
+https://www.curseforge.com/minecraft/mc-mods/corpse
+https://www.curseforge.com/minecraft/mc-mods/travelers-backpack
+https://www.curseforge.com/minecraft/mc-mods/balm - needed by waystones
+https://www.curseforge.com/minecraft/mc-mods/curios - needed by botania
+https://www.curseforge.com/minecraft/mc-mods/just-enough-guns - needed by M'TEG (JEG)
+https://www.curseforge.com/minecraft/mc-mods/framework - needed by M'TEG
+https://www.curseforge.com/minecraft/mc-mods/architectury-api - needed by mystic potions
+https://www.curseforge.com/minecraft/mc-mods/majrusz-library - needed by Majrusz's Enchantments
+https://www.curseforge.com/minecraft/mc-mods/patchouli - needed by botania
+https://www.curseforge.com/minecraft/mc-mods/cucumber - needed by mystical agriculture
+https://www.curseforge.com/minecraft/mc-mods/ores-above-diamonds
+https://www.curseforge.com/minecraft/mc-mods/gobber - modified to make it less OP
+https://www.curseforge.com/minecraft/mc-mods/another-furniture
+https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions
+https://www.curseforge.com/minecraft/mc-mods/bookshelf - needed for enchantment descriptions
+https://www.curseforge.com/minecraft/mc-mods/endremastered
+https://www.curseforge.com/minecraft/mc-mods/mekanism-generators
+https://www.curseforge.com/minecraft/mc-mods/mekanism-tools
+https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery
+https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery
+https://www.curseforge.com/minecraft/mc-mods/lets-do-brewery
+https://www.curseforge.com/minecraft/mc-mods/ender-io
+https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
+https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
+Thermal Expansion:
+https://www.curseforge.com/minecraft/mc-mods/thermal-foundation
+https://www.curseforge.com/minecraft/mc-mods/thermal-innovation
+https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation
+https://www.curseforge.com/minecraft/mc-mods/thermal-integration
+https://www.curseforge.com/minecraft/mc-mods/thermal-expansion
+https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics
+https://www.curseforge.com/minecraft/mc-mods/cofh-core - required for all
+
+https://www.curseforge.com/minecraft/mc-mods/berries-cherries-delight
+https://www.curseforge.com/minecraft/mc-mods/do-api - needed by [LETS DO]
+https://www.curseforge.com/minecraft/mc-mods/citadel - needed for alexs mobs
+https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+https://www.curseforge.com/minecraft/mc-mods/iron-chests
+https://www.curseforge.com/minecraft/mc-mods/iron-shulker-boxes
+https://www.curseforge.com/minecraft/mc-mods/quark
+https://www.curseforge.com/minecraft/mc-mods/zeta - needed by quark
+https://www.curseforge.com/minecraft/mc-mods/from-the-fog
+
+https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle
+https://www.curseforge.com/minecraft/mc-mods/collective - needed for fullbright
